@@ -7,12 +7,6 @@
       "price": 15.99
     },
     {
-      "id": 2,
-      "name": "ZZ Plant",
-      "image": "./images/zz-plant.jpg",
-      "price": 25.98
-    },
-    {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
@@ -41,6 +35,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Frank Trevino",
+      "image": "",
+      "price": "",
+      "id": 8
+    },
+    {
+      "name": "Frank's Plant ",
+      "image": "https://www.bhg.com/thmb/6ACaK-OJxdX7nxNWyvhkvVZ-8mQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/BHG-spider-plant-95f4f8185c11479db04c88bd44fa82aa.jpg",
+      "price": "15.00",
+      "id": 9
     }
   ]
 }
